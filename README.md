@@ -1,4 +1,11 @@
 # # Marketing ROI Regression Analysis
+## PDF Report
+
+A complete PDF version of the project is included:
+
+- Marketing_ROI_Regression_Analysis.pdf
+
+The PDF contains all executed code cells, outputs, regression results, visualizations, diagnostic plots, and business recommendations.
 
 ## Project Overview
 
